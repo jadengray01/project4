@@ -1,6 +1,6 @@
 body{
 	background-size: 100%;
-	background-repeat: mo-repeat;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
 }
@@ -8,24 +8,24 @@ h1{
 	font-size:60px; color:white;
 }
 li{
-	font-size:40px; color:whites;
+	font-size:30px; color:whites;
 }
 
 p{
 	font-size:40px; color:purple;
 }
 h2{
-	font-size:25px; color:white;
+	font-size:40px; color:white;
 }
 h3{
-	font-size:25px; color:yellow;
+	font-size:60px; color:yellow;
 }
 h4{
-	font-size:25px; color:Blue;
+	font-size:60px; color:Blue;
 }
 h5{
-	font-size:25px; color:brown;
+	font-size:60px; color:brown;
 }
 h6{
-	font-size:25px; color:white;
+	font-size:60px; color:yellow;
 }
