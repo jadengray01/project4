@@ -4,6 +4,28 @@ body{
 	background-attachment: fixed;
 	background-position: center;
 }
-head{
+h1{
 	font-size:60px; color:white;
+}
+li{
+	font-size:40px; color:whites;
+}
+
+p{
+	font-size:40px; color:purple;
+}
+h2{
+	font-size:25px; color:white;
+}
+h3{
+	font-size:25px; color:yellow;
+}
+h4{
+	font-size:25px; color:Blue;
+}
+h5{
+	font-size:25px; color:brown;
+}
+h6{
+	font-size:25px; color:white;
 }
